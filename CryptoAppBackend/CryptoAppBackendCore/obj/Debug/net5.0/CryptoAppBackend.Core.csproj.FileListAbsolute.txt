@@ -1,0 +1,12 @@
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\bin\Debug\net5.0\CryptoAppBackend.Core.deps.json
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\bin\Debug\net5.0\CryptoAppBackend.Core.dll
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\bin\Debug\net5.0\ref\CryptoAppBackend.Core.dll
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\bin\Debug\net5.0\CryptoAppBackend.Core.pdb
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\obj\Debug\net5.0\CryptoAppBackend.Core.csproj.AssemblyReference.cache
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\obj\Debug\net5.0\CryptoAppBackend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\obj\Debug\net5.0\CryptoAppBackend.Core.AssemblyInfoInputs.cache
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\obj\Debug\net5.0\CryptoAppBackend.Core.AssemblyInfo.cs
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\obj\Debug\net5.0\CryptoAppBackend.Core.csproj.CoreCompileInputs.cache
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\obj\Debug\net5.0\CryptoAppBackend.Core.dll
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\obj\Debug\net5.0\ref\CryptoAppBackend.Core.dll
+C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackendCore\obj\Debug\net5.0\CryptoAppBackend.Core.pdb
