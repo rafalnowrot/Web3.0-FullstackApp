@@ -1,10 +1,6 @@
 ﻿using CryptoAppBackend.Core.Commands.Transactions.Query;
-using MediatR;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using AutoMapper;
 using CryptoAppBackend.Interfaces.Transactions;
 using CryptoAppBackend.Services.Mapper;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qwlvReUEuhSwfLUqbQS+EF3O3cBdl0f3P21WBjJmCJ+rAzb7PTczlSt/9FbqMoCq381waa2U0XJOm+Ezk6p3Ng==",
+  "dgSpecHash": "1WMfKzs3V3iDKrs+JYUANfVXYfXNFoe6c1t/4Jg3xMitFIDFpfN9S9d7tV+swyjeVrerABVCTnNUVhQ4esOkcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj",
+  "projectFilePath": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafal\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\rafal\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

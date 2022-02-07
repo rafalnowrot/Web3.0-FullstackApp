@@ -2,11 +2,8 @@
 using CryptoAppBackend.Core.Commands.EtheriumFakeData.Query;
 using CryptoAppBackend.Core.Interfaces.EtheriumFakeData.Query;
 using CryptoAppBackend.Services.Mapper;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CryptoAppBackend.Services.Services
 {

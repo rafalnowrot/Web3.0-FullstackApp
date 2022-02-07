@@ -13,3 +13,17 @@ C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug
 C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug\net5.0\ref\CryptoAppBackend.Services.dll
 C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug\net5.0\CryptoAppBackend.Services.pdb
 C:\Users\rafal\source\repos\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug\net5.0\CryptoAppBackend.Services.csproj.CopyComplete
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\bin\Debug\net5.0\CryptoAppBackend.Services.deps.json
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\bin\Debug\net5.0\CryptoAppBackend.Services.dll
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\bin\Debug\net5.0\ref\CryptoAppBackend.Services.dll
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\bin\Debug\net5.0\CryptoAppBackend.Services.pdb
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\bin\Debug\net5.0\CryptoAppBackend.Core.dll
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\bin\Debug\net5.0\CryptoAppBackend.Core.pdb
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug\net5.0\CryptoAppBackend.Services.csproj.AssemblyReference.cache
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug\net5.0\CryptoAppBackend.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug\net5.0\CryptoAppBackend.Services.AssemblyInfoInputs.cache
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug\net5.0\CryptoAppBackend.Services.AssemblyInfo.cs
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug\net5.0\CryptoAppBackend.Services.csproj.CoreCompileInputs.cache
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug\net5.0\CryptoAppBackend.Services.dll
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug\net5.0\ref\CryptoAppBackend.Services.dll
+C:\Users\rafal\source\repos\web3.0\CryptoAppBackend\CryptoAppBackend.Services\obj\Debug\net5.0\CryptoAppBackend.Services.pdb

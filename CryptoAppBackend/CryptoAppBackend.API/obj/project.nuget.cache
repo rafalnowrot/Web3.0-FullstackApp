@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cMrwrjiuDdwtGtk72USDeiDxtQpkXigM5Cvf2k5A28UYO6msE5L2fYp0m/I4m1p+X0bRY84XqTq+Rluwqc6bug==",
+  "dgSpecHash": "VfPrGFly7pjgLHDFqG93fH5LCVVDIE0tcyVOY6A1YafzH1nym2jPgnb0XhirW8v7jS5gXpDDw2PAqQLPcfTFTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.API\\CryptoAppBackend.API.csproj",
+  "projectFilePath": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.API\\CryptoAppBackend.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafal\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\rafal\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

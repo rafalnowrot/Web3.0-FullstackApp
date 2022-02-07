@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BBbcpDLsf/CYLRVw5OAG3cla4Oehw0DX1ufSHX/rilvH5J9u147mYBB0H2aIfMkdOHBf7dbVEux/tT3FF8C6GA==",
+  "dgSpecHash": "lhvfv8F0eEgS7G0wX6iZJkX8ttoy/yI2v9X1xE4X8G4j/4ydX+hwFCtuf6Hn9+qDop5XYcbCTClomF/IX4Pj2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj",
+  "projectFilePath": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafal\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\rafal\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

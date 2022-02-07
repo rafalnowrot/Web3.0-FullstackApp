@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.API\\CryptoAppBackend.API.csproj": {}
+    "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.API\\CryptoAppBackend.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.API\\CryptoAppBackend.API.csproj": {
+    "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.API\\CryptoAppBackend.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.API\\CryptoAppBackend.API.csproj",
+        "projectUniqueName": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.API\\CryptoAppBackend.API.csproj",
         "projectName": "CryptoAppBackend.API",
-        "projectPath": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.API\\CryptoAppBackend.API.csproj",
+        "projectPath": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.API\\CryptoAppBackend.API.csproj",
         "packagesPath": "C:\\Users\\rafal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.API\\obj\\",
+        "outputPath": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj": {
-                "projectPath": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj"
+              "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj": {
+                "projectPath": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj": {
+    "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj",
+        "projectUniqueName": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj",
         "projectName": "CryptoAppBackend.Services",
-        "projectPath": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj",
+        "projectPath": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.Services\\CryptoAppBackend.Services.csproj",
         "packagesPath": "C:\\Users\\rafal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackend.Services\\obj\\",
+        "outputPath": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackend.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,8 +119,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj": {
-                "projectPath": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj"
+              "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj": {
+                "projectPath": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj"
               }
             }
           }
@@ -163,14 +163,14 @@
         }
       }
     },
-    "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj": {
+    "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj",
+        "projectUniqueName": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj",
         "projectName": "CryptoAppBackend.Core",
-        "projectPath": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj",
+        "projectPath": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackendCore\\CryptoAppBackend.Core.csproj",
         "packagesPath": "C:\\Users\\rafal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafal\\source\\repos\\CryptoAppBackend\\CryptoAppBackendCore\\obj\\",
+        "outputPath": "C:\\Users\\rafal\\source\\repos\\web3.0\\CryptoAppBackend\\CryptoAppBackendCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
